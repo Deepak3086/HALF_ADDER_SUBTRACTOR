@@ -1,7 +1,7 @@
 
 ### NAME: DEEPAK J G 
 ### REG NO: 24901065
-# EXP-3: HALF ADDER AND SUBTRACTOR
+# EXP-3: HALF ADDER AND HALF SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
